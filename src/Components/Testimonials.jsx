@@ -9,7 +9,7 @@ import dp3 from "../assets/images/dp3.jpg"
 
 const Testimonials = () => {
   return (
-    <section className="px-80 mb-7 bg-gray-200 py-10">
+    <section className="px-80 mb-7 bg-gray-100 py-10">
       <div className="">
         {/* Testimonials Headings */}
         <div className="flex flex-row mb-5 justify-between items-center">

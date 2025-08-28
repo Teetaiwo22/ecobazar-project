@@ -3,7 +3,7 @@ import fArrow from "../assets/images/forward-arrow.jpg";
 
 const Banners = () => {
   return (
-    <section className="px-80 border mb-10">
+    <section className="px-80 mb-10">
       <div className="border-2 flex flex-row gap-4">
         {/* Banner 1 */}
         <div className="bg-[url('/blue-banner.png')] bg-cover bg-no-repeat w-1/3">

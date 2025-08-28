@@ -19,7 +19,7 @@ import chill from "../assets/images/green-chill.jpg"
 
 const Products = () => {
   return (
-    <section className="mb-10 px-80 border">
+    <section className="mb-10 px-80 ">
       <div className="">
         {/* Procuts Heading */}
         <div className="flex flex-row mb-5 justify-between">
@@ -35,7 +35,7 @@ const Products = () => {
           {/* card 1 */}
           <div className="flex flex-col border">
             {/* image */}
-            <div className="relative pt-4 border">
+            <div className="relative pt-4">
               <img src={apple} alt="" />
               <p className="absolute top-4 left-3 text-sm bg-red-600 py-1 px-2 rounded text-white text-xs">
                 Sale 50%

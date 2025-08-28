@@ -122,7 +122,7 @@ const LatestNews = () => {
                 </div>
               </div>
 
-              <div className="text-green-700">
+              <div className="">
                 <p className=" text-sm">Maecenas blandit risus elementum mauris malesuada.</p>
               </div>
               {/* button */}

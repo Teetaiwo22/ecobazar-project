@@ -11,6 +11,8 @@ import DiscountBanner from './Components/DiscountBanner'
 import FeaturedProduct from './Components/FeaturedProduct'
 import LatestNews from './Components/LatestNews'
 import Testimonials from './Components/Testimonials'
+import Socials from './Components/Socials'
+import NewsLetter from './Components/NewsLetter'
 
 const App = () => {
   return (
@@ -27,6 +29,8 @@ const App = () => {
       <FeaturedProduct/>
       <LatestNews/>
       <Testimonials/>
+      <Socials/>
+      <NewsLetter/>
     </>
   )
 }
