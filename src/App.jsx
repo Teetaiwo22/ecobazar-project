@@ -10,6 +10,7 @@ import HotDeals from './Components/HotDeals'
 import DiscountBanner from './Components/DiscountBanner'
 import FeaturedProduct from './Components/FeaturedProduct'
 import LatestNews from './Components/LatestNews'
+import Testimonials from './Components/Testimonials'
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
       <DiscountBanner/>
       <FeaturedProduct/>
       <LatestNews/>
+      <Testimonials/>
     </>
   )
 }
