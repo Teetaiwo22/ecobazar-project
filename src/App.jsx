@@ -7,6 +7,9 @@ import Categories from './Components/Categories'
 import Products from './Components/Products'
 import Banners from './Components/Banners'
 import HotDeals from './Components/HotDeals'
+import DiscountBanner from './Components/DiscountBanner'
+import FeaturedProduct from './Components/FeaturedProduct'
+import LatestNews from './Components/LatestNews'
 
 const App = () => {
   return (
@@ -18,7 +21,10 @@ const App = () => {
       <Categories/>
       <Products/>
       <Banners/>
-      <HotDeals/>
+      {/* <HotDeals/> */}
+      <DiscountBanner/>
+      <FeaturedProduct/>
+      <LatestNews/>
     </>
   )
 }
