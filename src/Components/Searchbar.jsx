@@ -3,7 +3,7 @@ import budImg from "../assets/images/budding-flower.jpg";
 
 const Searchbar = () => {
   return (
-    <section className="py-3">
+    <section className="py-3 px-80">
       <div className="flex justify-between items-center">
         <div className="flex text-xl font-bold items-center gap-1">
           <img src={budImg} alt="" className="h-5 object-cover"/>

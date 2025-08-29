@@ -11,7 +11,6 @@ import follow3 from "../assets/images/followus3.jpg";
 import follow4 from "../assets/images/followus4.jpg";
 import follow5 from "../assets/images/followus5.jpg";
 import follow6 from "../assets/images/followus6.jpg";
-import cam from "../assets/images/camera.jpg";
 
 const Socials = () => {
   return (

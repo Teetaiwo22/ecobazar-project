@@ -1,5 +1,4 @@
 import React from "react";
-import budImg from "../assets/images/budding-flower.jpg";
 import securePayment from "../assets/images/secure-payment.jpg"
 import mastercard from "../assets/images/Method=Mastercard.jpg"
 import discovery from "../assets/images/Method=Discover.jpg"
