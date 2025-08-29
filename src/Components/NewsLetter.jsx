@@ -5,7 +5,7 @@ import printerest from "../assets/images/printerest.jpg"
 
 const NewsLetter = () => {
   return (
-    <section className="px-80 mb-7 bg-gray-100 py-10">
+    <section className="px-80 bg-gray-100 py-10">
       <div className="flex flex-row gap-8">
         {/* subscribe Heading */}
         <div className="">

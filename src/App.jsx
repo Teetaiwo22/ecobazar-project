@@ -13,6 +13,7 @@ import LatestNews from './Components/LatestNews'
 import Testimonials from './Components/Testimonials'
 import Socials from './Components/Socials'
 import NewsLetter from './Components/NewsLetter'
+import Footer from './Components/Footer'
 
 const App = () => {
   return (
@@ -31,6 +32,7 @@ const App = () => {
       <Testimonials/>
       <Socials/>
       <NewsLetter/>
+      <Footer/>
     </>
   )
 }
